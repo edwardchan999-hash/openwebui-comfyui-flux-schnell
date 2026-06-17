@@ -1,0 +1,24 @@
+.env
+*.log
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
+__pycache__/
+
+# Local generated outputs
+outputs/
+output/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp4
+*.mov
+
+# Secrets
+*token*
+*secret*
+*credential*
+*.key
+*.pem
